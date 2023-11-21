@@ -15,3 +15,7 @@ def sayhello():
 if __name__ == '__main__':
   sayhello()
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
